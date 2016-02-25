@@ -1,0 +1,179 @@
+@media (min-width: 1024px) and (max-width: 1076px) {
+  .bk_container {
+    width: 920px; }
+  .about_social {
+    padding: 0; } }
+
+@media (min-width: 1024px) and (max-width: 1300px) {
+  .bk_header, .footer_wrapper, .copyright_section {
+    width: 980px; } }
+
+@media (max-width: 916px) {
+  .bk_logo {
+    float: none;
+    text-align: center;
+    padding: 50px 0 70px; }
+  .bk_listitems a {
+    display: inline-block; }
+  .bk_list {
+    float: none;
+    width: 100%;
+    margin: 0 auto;
+    padding: 0; }
+  .bk_listitems {
+    animation: none !important;
+    -webkit-animation: none !important;
+    -moz-animation: none !important;
+    margin: 0;
+    width: 25%;
+    text-align: center; }
+  .bk_listitems:after {
+    display: none; } }
+
+@media (min-width: 768px) and (max-width: 1023px) {
+  .learnlink_wrapper .learnmore_link {
+    margin: 20px 0 20px 45px; }
+  .product_wrapper {
+    padding-top: 90px; }
+  .bk_header, .bk_container, .footer_wrapper, .copyright_section {
+    width: 760px; }
+  .list_marker {
+    padding: 8px 8px 12px 5px; }
+  .program_section {
+    padding-right: 30px; }
+  .bk_header, .bk_container, .footer_wrapper, .copyright_section {
+    width: 90%; }
+  .list_marker {
+    padding: 8px 8px 12px 5px; }
+  .program_section, .parents_section {
+    padding-right: 30px; }
+  .bk_about {
+    padding: 75px 0 75px 0; }
+  .highlights_list, .footer_wrapper h2 {
+    margin: 0px; }
+  .list_marker {
+    padding: 10px 10px; }
+  .listitem_head {
+    padding: 16px 0 10px 0;
+    font-size: 13px; }
+  .slider_image_background {
+    height: 215px;
+    left: 60px;
+    top: 130px;
+    width: 235px; }
+  .slider_image {
+    width: 220px;
+    margin-right: 20px;
+    height: 222px; }
+  .slider_description {
+    width: 48%; }
+  .right_control, .left_control {
+    right: -35px; }
+  .slider_description h1 {
+    font-size: 30px;
+    margin: 0px 0 15px; }
+  .about_social {
+    padding: 0px 5px; } }
+
+@media (max-width: 767px) {
+  .learnmore_link {
+    display: block; }
+  .bk_header, .bk_container, .footer_wrapper, .copyright_section {
+    width: 100%; }
+  .bk_logo {
+    float: none;
+    text-align: center; }
+  .bk_list {
+    float: none;
+    width: 100%;
+    margin: 0 auto;
+    padding: 0; }
+  .bk_listitems {
+    animation: none !important;
+    -webkit-animation: none !important;
+    -moz-animation: none !important;
+    margin: 0;
+    width: 25%;
+    text-align: center; }
+  .bk_listitems:after {
+    display: none; }
+  .bk_header, .bk_container, .footer_wrapper, .copyright_section {
+    width: 95%; }
+  .learnlink_wrapper .learnmore_link {
+    display: none; }
+  .slider_image, .slider_image_background {
+    display: none; }
+  .slider_description {
+    width: 90%;
+    padding: 40px 0;
+    margin: 0 auto; }
+  .listitem_head {
+    display: none; }
+  .section_listitems .active {
+    background-color: transparent;
+    border-bottom: 1px solid #a6a253; }
+  .list_marker {
+    padding: 0px; }
+  .program_section, .parents_section {
+    padding: 40px 0px 0px 0px;
+    width: auto;
+    float: none; }
+  .copy_phone {
+    width: 100%;
+    text-align: center; }
+  .bk_about {
+    padding: 60px 0px; }
+  .highlights_list, .footer_wrapper h2 {
+    margin: 0px; }
+  .about_description, .about_image_section, .bk_about h3 {
+    float: none;
+    width: 100%;
+    margin: 0; }
+  .about_image_section {
+    text-align: center; }
+  .about_image img {
+    max-width: 50%; }
+  .bk_about h3 {
+    text-align: center; }
+  .slider_section_list {
+    height: 53px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0;
+    padding: 10px 0 0 0;
+    width: 50%;
+    background-color: transparent; }
+  .section_listitems a {
+    display: inline-block;
+    border-right: 0 none;
+    width: auto; }
+  .section_listitems {
+    width: 25%;
+    text-align: center; }
+  .section_listitems a .list_marker {
+    display: block; }
+  .bk_listitems a {
+    display: inline-block; }
+  .left_control {
+    left: 20%;
+    position: absolute;
+    bottom: -58px;
+    top: auto;
+    margin-left: -20px; }
+  .right_control {
+    right: 20%;
+    position: absolute;
+    top: auto;
+    bottom: -58px;
+    margin-right: -20px; }
+  .bk_logo {
+    padding: 50px 0px 70px 0px; }
+  .contact_section {
+    width: 100%;
+    float: none; }
+  .copy_rights {
+    float: left;
+    width: 100%;
+    text-align: center; }
+  .slider_description a {
+    text-align: center; } }

@@ -1,0 +1,57 @@
+.bk_listitems:first-child{
+    margin-top      :65px;
+    }
+.bk_listitems:nth-child(2){
+    margin-top      :115px;
+    }  
+.bk_listitems:nth-child(3){
+    margin-top      :65px;
+    }
+.bk_listitems:nth-child(4){
+    margin-top      :115px;
+    }    
+ .list_products{
+    margin-top      :115px;
+     -webkit-animation       : orbit2 3s linear infinite;
+    -moz-animation       : orbit2 3s linear infinite;
+ }
+ .list_products:after {
+    border-left     : 1px solid #bd46ce;
+    border-top      : 0px solid #bd46ce;
+    bottom          : 123px;
+    content         : "";
+    position        : absolute;
+    right           : 50%;
+    width           :1px;
+    height          :116px;
+}
+.list_about{
+    margin-top      :65px;
+    -webkit-animation       : orbit3 3s linear infinite;
+    -moz-animation       : orbit3 3s linear infinite;
+ }
+ .list_about:after {
+    border-left     : 1px solid #bd46ce;
+    border-top      : 0px solid #bd46ce;
+    bottom          : 123px;
+    content         : "";
+    position        : absolute;
+    right           : 50%;
+    width           :1px;
+    height          :66px;
+}
+.list_contact{
+    margin-top      :115px;
+    -webkit-animation       : orbit4 3s linear infinite;
+    -moz-animation       : orbit4 3s linear infinite;
+ }
+ .list_contact:after {
+    border-left     : 1px solid #bd46ce;
+    border-top      : 0px solid #bd46ce;
+    bottom          : 123px;
+    content         : "";
+    position        : absolute;
+    right           : 50%;
+    width           :1px;
+    height          :116px;
+}
